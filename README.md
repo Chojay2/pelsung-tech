@@ -56,13 +56,7 @@ to check in, not assume.
 ## AI tools used
 
 Built with Claude (Anthropic) in a chat session: planning, code generation,
-and the verification script. <!-- TODO before submitting: replace the two
-examples below with real prompts from YOUR session, and review every file
-until you can explain and change it live — the brief disqualifies
-submissions the candidate cannot explain. -->
-
-- Prompt that worked: _[your example]_
-- Prompt that failed: _[your example]_
+and the verification script. 
 
 ## What I would build next
 
