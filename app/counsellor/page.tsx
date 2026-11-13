@@ -10,8 +10,8 @@ export default function CounsellorPage() {
       <h1>Counsellor flag board</h1>
       <p className="page-intro">
         Every student from the survey, ordered by who needs you first. Urgent
-        students stay at the top whatever you filter. Follow-up statuses are
-        saved on this device.
+        students stay at the top whatever you filter. Open a row to see the
+        student’s answers and comment.
       </p>
       <FlagBoard rows={rows} />
     </main>
